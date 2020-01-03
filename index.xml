@@ -20,5 +20,14 @@
       <description>欢迎来到我的博客 大家好，欢迎来到我的博客！ 本博客主要是为了总结个人学习摸索前端知识的一个汇总和凝练。</description>
     </item>
     
+    <item>
+      <title>第二篇博客</title>
+      <link>http://luckyboat.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 01 Jan 2020 23:14:50 +0800</pubDate>
+      
+      <guid>http://luckyboat.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>欢迎来到我的第二篇博客 大家好，欢迎来到我的第二篇博客！</description>
+    </item>
+    
   </channel>
 </rss>
